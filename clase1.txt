@@ -1,0 +1,12 @@
+IMAD(Introduction to Mobile Applications Development)
+aplicacion mobil con lenguaje Kotlin para conectarse a la red, servidor. MONGO DB(Mongo data base)
+diseñar e implementar aplicaciones para dispositivos moviles.
+diseñar y implementar servicios backend
+desplegar servicios de backend en prestador de servicios(Amazon web server)
+Ktor
+ESP32
+asesoria: lunes 3-4 martes 11-12 y 4-6 jueves 11-12. professors room
+parrado@uniquindio.edu.co
+
+homework 1:
+escribir una aplicacion android en Kotlin para enviar informacion por WLAN al ESP32 (SSID and Password) atravez Bluetooth.
